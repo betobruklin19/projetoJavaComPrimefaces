@@ -1,0 +1,5 @@
+package com.projetojava.erp.repository;
+
+public class SchemaGeneration {
+
+}

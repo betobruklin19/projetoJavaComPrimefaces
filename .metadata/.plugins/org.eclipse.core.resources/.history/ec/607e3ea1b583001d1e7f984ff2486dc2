@@ -1,0 +1,5 @@
+package com.projetojava.erp.model;
+
+public enum TipoEmpresa {
+
+}
